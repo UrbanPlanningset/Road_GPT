@@ -83,18 +83,6 @@ Urban Road Data → LLM Reasoning (CoT) → GCN Embedding → Combined State →
   </thead>
   <tbody>
     <tr>
-      <td>Travel Time</td>
-      <td>15.3 min</td>
-      <td>18.0 min</td>
-      <td>↓ 14.6%</td>
-    </tr>
-    <tr>
-      <td>Reconstruction Cost</td>
-      <td>$2.8M</td>
-      <td>$3.45M</td>
-      <td>↓ 18.7%</td>
-    </tr>
-    <tr>
       <td>Waiting Time</td>
       <td>2.1 min</td>
       <td>2.8 min</td>
