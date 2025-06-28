@@ -1,8 +1,8 @@
 🚦 RoadGPT: A Road Reconstruction Framework via Graph-enhanced Large Language Models
 
 <p align="center">
-  <img src="assets/demo_slow.gif" width="45%" />
-  <img src="assets/demo_fast.gif" width="45%" />
+  <img src="demo_slow.gif" width="45%" />
+  <img src="demo_fast.gif" width="45%" />
 </p>
 
 🔍 Overview
